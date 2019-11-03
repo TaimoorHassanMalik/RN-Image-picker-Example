@@ -14,6 +14,7 @@ We are using a Native API Camera and also going to choose the image from the gal
 #### android > app > src > main > AndroidManifest.xml 
 
 uses-permission android:name="android.permission.CAMERA"/
+
 uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/
 
 ## Output like this
